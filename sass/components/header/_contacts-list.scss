@@ -20,7 +20,7 @@
   padding: 5px;
   gap: 10px;
   font-weight: 500;
-  color: var(--gray-substring);
+  color: $gray-substring;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   &:hover,&:focus{
